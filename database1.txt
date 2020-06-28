@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    //This is a test program
+	cout<<"GfG!";
+	return 0;
+}
